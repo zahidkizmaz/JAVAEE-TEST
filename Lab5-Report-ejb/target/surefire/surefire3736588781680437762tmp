@@ -1,0 +1,6 @@
+#surefire
+#Tue Jan 03 20:36:18 CET 2017
+maven.ext.class.path=C\:\\Program Files\\NetBeans8.0.2\\java\\maven-nblib\\netbeans-eventspy.jar
+user.dir=C\:\\Users\\Tomek\\Documents\\NetBeansProjects\\Lab5-Report\\Lab5-Report-ejb
+localRepository=C\:\\Users\\Tomek\\.m2\\repository
+basedir=C\:\\Users\\Tomek\\Documents\\NetBeansProjects\\Lab5-Report\\Lab5-Report-ejb
